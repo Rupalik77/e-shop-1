@@ -93,7 +93,7 @@ Blaze = SavingsAcct(1000, "Blaze")
 
 Blaze.get_balance()
 
-Blaze.deposit(100)
+Blaze.deposit(500)
 
 Blaze.transfer(10000, Sara)
 Blaze.transfer(1000,Sara)
